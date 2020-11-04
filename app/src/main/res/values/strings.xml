@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second Number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="into">*</string>
+    <string name="divide">/</string>
+    <string name="power">^</string>
+    <string name="percent">%</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="lg">lg</string>
+    <string name="root">root</string>
+    <string name="x">x!</string>
+</resources>
